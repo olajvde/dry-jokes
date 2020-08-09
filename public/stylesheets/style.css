@@ -1,0 +1,40 @@
+
+@import url(//db.onlinewebfonts.com/c/bd9805cba4fdbd10e6f9d097dab9225f?family=Chalkduster);
+
+@font-face {font-family: "Chalkduster"; src: url("//db.onlinewebfonts.com/t/bd9805cba4fdbd10e6f9d097dab9225f.eot"); 
+  src: url("//db.onlinewebfonts.com/t/bd9805cba4fdbd10e6f9d097dab9225f.eot?#iefix")
+   format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/bd9805cba4fdbd10e6f9d097dab9225f.woff2")
+     format("woff2"), url("//db.onlinewebfonts.com/t/bd9805cba4fdbd10e6f9d097dab9225f.woff") 
+     format("woff"), url("//db.onlinewebfonts.com/t/bd9805cba4fdbd10e6f9d097dab9225f.ttf") 
+     format("truetype"), url("//db.onlinewebfonts.com/t/bd9805cba4fdbd10e6f9d097dab9225f.svg#Chalkduster")
+      format("svg"); } 
+
+a {
+  color: #00B7FF;
+}
+
+.bod{
+  padding: 30px;
+  font-family: 'Chalkduster';
+}
+
+.collapse navbar-collapse{
+  right:0;
+}
+
+.sm{
+  float:center;
+  margin-left: 40%;
+  
+}
+
+.contain-links{
+  height: 40%;
+  width: 50%;
+  border-color: white;
+  border: 3px;
+  margin-left: 25%;
+}
+
+
